@@ -59,6 +59,20 @@ error = "Erreur"
 example = "Exemple"
 quote = "Citation"
 
+[lang.he]
+abstract = "תמצית"
+info = "מידע"
+question = "שאלה"
+memo = "תזכורת"
+task = "משימה"
+conclusion = "מסקנה"
+tip = "טיפ"
+success = "הצלחה"
+warning = "אזהרה"
+error = "שגיאה"
+example = "דוגמה"
+quote = "ציטוט"
+
 [lang.zh]
 abstract = "摘要"
 info = "简介"
